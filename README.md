@@ -1,2 +1,2 @@
 # Portfolio
-Brandon W Cline Portfolio
+Brandon Cline Portfolio
